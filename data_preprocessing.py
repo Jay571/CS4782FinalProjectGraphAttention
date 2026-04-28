@@ -3,6 +3,18 @@ from torch_geometric.datasets import Planetoid, PPI
 from torch_geometric.utils import add_self_loops
 
 
+
+# To access the splitted datasets:
+#  use from data_preprocessing import cora_train
+
+
+
+
+
+
+
+
+
 # ========================
 # Utils
 # ========================
