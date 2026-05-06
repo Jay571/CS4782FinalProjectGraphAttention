@@ -22,6 +22,7 @@ In conclusion, after performing our initial reimplementation and then reiteratin
 
 ## References
 Original Paper: https://arxiv.org/pdf/1710.10903
+
 Datasets: Prithviraj Sen, Galileo Namata, Mustafa Bilgic, Lise Getoor, Brian Galligher, and Tina Eliassi-Rad. Collective classification in network data. AI magazine, 29(3):93, 2008
 
 
